@@ -1,4 +1,4 @@
-# IBM-Applied-Data-Science-Capstone
+## IBM-Applied-Data-Science-Capstone
 This Capstone summarizes in the form of project all materials that have been learned during this specialization.
 
 # 📄 Project Background
@@ -6,12 +6,12 @@ SpaceX is the most successful company of the commercial space age, making space 
 
 # Contents include multiple assignments for course 10
 
-* 1 - Data Collection API Lab.ipynb
-* 2 - Data Collection with Web Scraping.ipynb
-* 3 - Data Wrangling.ipynb
-* 4 - EDA with Data Visualization.ipynb
-5 - EDA with SQL.ipynb
-6 - Interactive Visual Analytics with Folium.ipynb
-7 - spacex-dash-app.py
-8 - Machine Learning Prediction.ipynb
-9 - robert-spacex-booster-prediction-report.pdf
+* _1 - Data Collection API Lab.ipynb_
+* _2 - Data Collection with Web Scraping.ipynb_
+* _3 - Data Wrangling.ipynb_
+* _4 - EDA with Data Visualization.ipynb_
+* _5 - EDA with SQL.ipynb_
+* _6 - Interactive Visual Analytics with Folium.ipynb_
+* _7 - spacex-dash-app.py_
+* _8 - Machine Learning Prediction.ipynb_
+* _9 - robert-spacex-booster-prediction-report.pdf_
